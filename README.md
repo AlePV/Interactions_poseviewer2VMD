@@ -14,7 +14,7 @@
 
 ## Ejemplo: 
 <p align="center">
-    <img src="./3_GTR3_I3M_interactions.png?raw=true" width="1000">
+    <img src="./3_GTR3_I3M_interactions.png?raw=true" width="600">
 </p>
 
 (Ignorar lineas verdes)
