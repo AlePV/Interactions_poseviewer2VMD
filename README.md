@@ -11,6 +11,10 @@
 
 **Nota:** Para cambiar los colores modificar el nodo verde con el comentario **Colores**.
 
+
+## Ejemplo: 
 <p align="center">
-    <img src="./3_GTR3_I3M_interactions.png?raw=true" width="600">
+    <img src="./3_GTR3_I3M_interactions.png?raw=true" width="1000">
 </p>
+
+(Ignorar lineas verdes)
