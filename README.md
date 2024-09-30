@@ -7,6 +7,7 @@
 - El Workflow escribe un script en Tcl llamado **VMD_draw_interactions.tcl**.
 - En VMD cargar el archivo PDB. Como ejemplo descargar **GTR3_I3M.pdb**.
 - En la TKconsole de VMD cargar el script de Tcl con el comando **"play VMD_draw_interactions.tcl"**. Para ver un ejemplo descargar el archivo **GTR3_I3M_pv_interactions.tcl**.
+- Al renderizar usar Tachyon internal, **No** optix.
 
 
 **Nota:** Para cambiar los colores modificar el nodo verde con el comentario **Colores**.
